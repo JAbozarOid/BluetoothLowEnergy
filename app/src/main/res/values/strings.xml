@@ -1,0 +1,32 @@
+<resources>
+    <!-- 1 peripheral -->
+    <string name="app_name">BluetoothLowEnergy</string>
+    <string name="action_start_scan">Scan</string>
+    <string name="action_stop_scan">Stop</string>
+    <string name="scanning">Scanning...</string>
+    <string name="peripheral_list_empty">No Peripherals Found</string>
+    <!-- advertising -->
+    <string name="advertising_name_label">Advertising Name: </string>
+    <string name="bluetooth_on">Bluetooth On</string>
+    <string name="advertising">Advertising</string>
+    <string name="central_connected">Central Connected</string>
+    <!-- connect -->
+    <string name="action_connect">Connect</string>
+    <string name="action_disconnect">Disconnect</string>
+    <string name="connecting">Connecting...</string>
+    <string name="loading">Loading...</string>
+    <!-- services and characteristic -->
+    <string name="service_type_primary">Primary</string>
+    <string name="service_type_secondary">Secondary</string>
+    <string name="gatt_profile_list_empty">No GATT Profile Discovered</string>
+    <string name="property_read">Readable</string>
+    <string name="property_write">Writable</string>
+    <string name="property_notify">Notifiable</string>
+    <string name="property_none">No Access</string>
+    <!-- READ -->
+    <string name="read_button">Read</string>
+    <string name="response_label">Response</string>
+    <!-- notification -->
+    <string name="notify_checkbox">Subscribe to this characteristic</string>
+
+</resources>
